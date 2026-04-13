@@ -52,9 +52,9 @@ Desenvolvedor FullStack focado em construir produtos digitais completos — do b
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [TheBehindLab](https://thebehindlab.com) | SaaS completo de geração de conteúdo com IA — texto, imagem, vídeo e narração. Stripe, afiliados, painel admin. | Next.js · Node.js · Claude AI · Stripe | 🟢 Produção |
+| [TheBehindLab](https://thebehindlab.com) | SaaS completo de geração de conteúdo com IA — texto, imagem, vídeo e narração. Stripe, afiliados, painel admin. | Next.js · Node.js · Claude AI · Stripe | ✅ Concluído |
 | Affiliate Autopilot | Pipeline automatizado que cria vídeos de afiliados: roteiro via Claude, cenas via DALL-E, narração TTS, montagem FFmpeg. | Node.js · Claude AI · OpenAI · FFmpeg | 🟡 Desenvolvimento |
-| Universe Pro | Plataforma de lives e campeonatos com dashboard, JWT, calendário de eventos e painel admin. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Concluído |
+| [Universe Pro](https://universepro.com.br) | Plataforma de lives e campeonatos com dashboard, JWT, calendário de eventos e painel admin. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Concluído |
 | Compre Rural | Plataforma imobiliária rural com catálogo, sistema de leads e filtros por região. | Next.js · TypeScript · Prisma | ✅ Concluído |
 
 </div>
@@ -107,9 +107,9 @@ Full Stack Developer focused on building complete digital products — from data
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [TheBehindLab](https://thebehindlab.com) | Full AI SaaS for content generation — text, image, video and narration. Stripe subscriptions, affiliate program, admin panel. | Next.js · Node.js · Claude AI · Stripe | 🟢 Live |
+| [TheBehindLab](https://thebehindlab.com) | Full AI SaaS for content generation — text, image, video and narration. Stripe subscriptions, affiliate program, admin panel. | Next.js · Node.js · Claude AI · Stripe | ✅ Completed |
 | Affiliate Autopilot | Automated affiliate video pipeline: Claude writes the script, DALL-E generates scenes, TTS narrates, FFmpeg assembles the MP4. | Node.js · Claude AI · OpenAI · FFmpeg | 🟡 In Development |
-| Universe Pro | Live streaming and championship platform with dashboard, JWT auth, event calendar and admin panel. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Completed |
+| [Universe Pro](https://universepro.com.br) | Live streaming and championship platform with dashboard, JWT auth, event calendar and admin panel. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Completed |
 | Compre Rural | Rural real estate platform with property catalog, lead system and regional filters. | Next.js · TypeScript · Prisma | ✅ Completed |
 
 </div>
