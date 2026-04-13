@@ -14,7 +14,7 @@
 
 **Desenvolvedor FullStack · Next.js · Node.js · TypeScript · IA**
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-kauadev.online-c9a227?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devkaua.online)
+[![Portfólio](https://img.shields.io/badge/Portfólio-devkaua.online-c9a227?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devkaua.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kauã--fernandes--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-fernandes-dev/)
 [![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauafernandesferreira@gmail.com)
 
@@ -69,7 +69,7 @@ Desenvolvedor FullStack focado em construir produtos digitais completos — do b
 
 **Full Stack Developer · Next.js · Node.js · TypeScript · AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kauadev.online-c9a227?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devkaua.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devkaua.online-c9a227?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devkaua.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kauã--fernandes--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-fernandes-dev/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauafernandesferreira@gmail.com)
 
