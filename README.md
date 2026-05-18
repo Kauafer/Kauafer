@@ -22,9 +22,9 @@
 
 ### Sobre mim
 
-Desenvolvedor FullStack focado em construir produtos digitais completos — do banco de dados ao deploy. Experiência em plataformas SaaS com IA, sistemas de pagamento, autenticação e dashboards complexos.
+Desenvolvedor FullStack focado em construir produtos digitais completos do banco de dados ao deploy. Experiência em plataformas SaaS com IA, sistemas de pagamento, autenticação e dashboards complexos.
 
-- 🚀 Criador do **[TheBehindLab](https://thebehindlab.com)** — SaaS de geração de conteúdo com IA em produção
+- 🚀 Criador do **[TheBehindLab](https://thebehindlab.com)** SaaS de geração de conteúdo com IA em produção
 - 🎓 Cursando **Ciência da Computação** na PUC Goiás
 - 💡 Sempre construindo algo novo
 - 📍 Goiás, Brasil
@@ -52,7 +52,7 @@ Desenvolvedor FullStack focado em construir produtos digitais completos — do b
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [TheBehindLab](https://thebehindlab.com) | SaaS completo de geração de conteúdo com IA — texto, imagem, vídeo e narração. Stripe, afiliados, painel admin. | Next.js · Node.js · Claude AI · Stripe | ✅ Concluído |
+| [TheBehindLab](https://thebehindlab.com) | SaaS completo de geração de conteúdo com IA texto, imagem, vídeo e narração. Stripe, afiliados, painel admin. | Next.js · Node.js · Claude AI · Stripe | ✅ Concluído |
 | Affiliate Autopilot | Pipeline automatizado que cria vídeos de afiliados: roteiro via Claude, cenas via DALL-E, narração TTS, montagem FFmpeg. | Node.js · Claude AI · OpenAI · FFmpeg | 🟡 Desenvolvimento |
 | [Universe Pro](https://universepro.com.br) | Plataforma de lives e campeonatos com dashboard, JWT, calendário de eventos e painel admin. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Concluído |
 | Compre Rural | Plataforma imobiliária rural com catálogo, sistema de leads e filtros por região. | Next.js · TypeScript · Prisma | ✅ Concluído |
@@ -77,9 +77,9 @@ Desenvolvedor FullStack focado em construir produtos digitais completos — do b
 
 ### About me
 
-Full Stack Developer focused on building complete digital products — from database to deployment. Experienced in AI-powered SaaS platforms, payment systems, JWT authentication and complex dashboards.
+Full Stack Developer focused on building complete digital products from database to deployment. Experienced in AI-powered SaaS platforms, payment systems, JWT authentication and complex dashboards.
 
-- 🚀 Creator of **[TheBehindLab](https://thebehindlab.com)** — AI content generation SaaS live in production
+- 🚀 Creator of **[TheBehindLab](https://thebehindlab.com)** AI content generation SaaS live in production
 - 🎓 Studying **Computer Science** at PUC Goiás
 - 💡 Always building something new
 - 📍 Goiás, Brazil
@@ -107,7 +107,7 @@ Full Stack Developer focused on building complete digital products — from data
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [TheBehindLab](https://thebehindlab.com) | Full AI SaaS for content generation — text, image, video and narration. Stripe subscriptions, affiliate program, admin panel. | Next.js · Node.js · Claude AI · Stripe | ✅ Completed |
+| [TheBehindLab](https://thebehindlab.com) | Full AI SaaS for content generation text, image, video and narration. Stripe subscriptions, affiliate program, admin panel. | Next.js · Node.js · Claude AI · Stripe | ✅ Completed |
 | Affiliate Autopilot | Automated affiliate video pipeline: Claude writes the script, DALL-E generates scenes, TTS narrates, FFmpeg assembles the MP4. | Node.js · Claude AI · OpenAI · FFmpeg | 🟡 In Development |
 | [Universe Pro](https://universepro.com.br) | Live streaming and championship platform with dashboard, JWT auth, event calendar and admin panel. | Next.js 14 · TypeScript · Node.js · JWT | ✅ Completed |
 | Compre Rural | Rural real estate platform with property catalog, lead system and regional filters. | Next.js · TypeScript · Prisma | ✅ Completed |
